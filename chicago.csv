@@ -1,0 +1,798 @@
+city,station_name,median_household_income_census_block,bucket
+Chicago,Kedzie Ave & Lake St,9490,1
+Chicago,Halsted & 63rd - Kennedy-King Vaccination Site,10814,1
+Chicago,Damen Ave & Pierce Ave,11406,1
+Chicago,Ogden Ave & Roosevelt Rd,12313,1
+Chicago,Ashland Ave & 13th St,12313,1
+Chicago,Central Ave & Lake St,13036,1
+Chicago,MLK Jr Dr & 47th St,13177,1
+Chicago,Stewart Ave & 63rd St,13450,1
+Chicago,Wentworth Ave & 35th St,13625,1
+Chicago,Cottage Grove Ave & 63rd St,13676,1
+Chicago,State St & 29th St,13676,1
+Chicago,Ashland Ave & 78th St,14188,1
+Chicago,State St & Pershing Rd,14250,1
+Chicago,Cottage Grove Ave & 78th St,15000,1
+Chicago,Lavergne Ave & Division St,15315,1
+Chicago,Altgeld Gardens,15523,1
+Chicago,Eberhart Ave & 61st St,15881,1
+Chicago,Perry Ave & 69th St,15893,1
+Chicago,Houston Ave & 92nd St,15956,1
+Chicago,Racine Ave & 13th St,16048,1
+Chicago,Homan Ave & Fillmore St,16522,1
+Chicago,Eberhart Ave & 131st St,16522,1
+Chicago,Kedzie Ave & Roosevelt Rd,16522,1
+Chicago,Stony Island Ave & 71st St,16536,1
+Chicago,Cottage Grove Ave & Oakwood Blvd,16736,1
+Chicago,S Wentworth Ave & W 111th St,16783,1
+Chicago,Eggleston Ave & 69th St,16835,1
+Chicago,Greenwood Ave & 79th St,17426,1
+Chicago,Western Ave & Monroe St,17569,1
+Chicago,Halsted St & 78th St,17841,1
+Chicago,63rd St Beach,18411,1
+Chicago,Kostner Ave & Lake St,18750,1
+Chicago,Kedzie Ave & 21st St,18810,1
+Chicago,Sacramento Blvd & Polk St,18952,1
+Chicago,Conservatory Dr & Lake St,19042,1
+Chicago,Halsted St & 59th St,19688,1
+Chicago,Halsted St & 56th St,19688,1
+Chicago,Calumet Ave & 35th St,19950,1
+Chicago,Calumet Ave & 33rd St,19950,1
+Chicago,Halsted St & 47th Pl,19975,1
+Chicago,Western Ave & 62nd St,20160,1
+Chicago,Maplewood Ave & 59th St,20160,1
+Chicago,Seeley Ave & Garfield Blvd,20438,1
+Chicago,Woodlawn Ave & 55th St,20509,1
+Chicago,Central Ave & Madison St,20850,1
+Chicago,MLK Jr Dr & 63rd St,20904,1
+Chicago,Calumet Ave & 51st St,21065,1
+Chicago,Cicero Ave & Quincy St,21250,1
+Chicago,Leamington Ave & Hirsch St,21417,1
+Chicago,Austin Blvd & Lake St,21865,1
+Chicago,Indiana Ave & 103rd St,22018,1
+Chicago,State St & 79th St,22188,1
+Chicago,Indiana Ave & 133rd St,22454,1
+Chicago,Glenwood Ave & Morse Ave,22484,1
+Chicago,Racine Ave & Garfield Blvd,22500,1
+Chicago,Throop St & 52nd St,22500,1
+Chicago,Constance Ave & 95th St,22589,1
+Chicago,Dauphin Ave & 87th St,22708,1
+Chicago,Stony Island Ave & 75th St,22772,1
+Chicago,Elizabeth St & 59th St,23173,1
+Chicago,Vernon Ave & 79th St,23221,1
+Chicago,Phillips Ave & 79th St,23431,1
+Chicago,Pulaski Rd & Congress Pkwy,23571,1
+Chicago,Wentworth Ave & 33rd St,23854,1
+Chicago,Central Park Blvd & 5th Ave,24050,1
+Chicago,Princeton Ave & Garfield Blvd,24122,1
+Chicago,Ada St & 113th St,24219,1
+Chicago,Warren Park West,24223,1
+Chicago,Warren Park East,24223,1
+Chicago,Clybourn Ave & Division St,24250,1
+Chicago,May St & 69th St,24342,1
+Chicago,Tripp Ave & 15th St,24474,1
+Chicago,Central Park & Augusta Blvd,24549,1
+Chicago,Kedzie Ave & 52nd St,24604,1
+Chicago,Carpenter St & 63rd St,24741,1
+Chicago,Racine Ave & 61st St,24741,1
+Chicago,Racine Ave & 65th St,24861,1
+Chicago,Broadway & Argyle St,25078,2
+Chicago,Big Marsh Park,25244,2
+Chicago,Torrence Ave & 106th St,25244,2
+Chicago,Malcolm X College Vaccination Site,25469,2
+Chicago,Damen Ave & Madison St,25469,2
+Chicago,Phillips Ave & 83rd St,25580,2
+Chicago,South Shore Dr & 71st St,25662,2
+Chicago,Central Park Ave & Douglas Blvd,25707,2
+Chicago,Maryland Ave & 104th St,25772,2
+Chicago,California Ave & Lake St,25833,2
+Chicago,Halsted St & 69th St,25850,2
+Chicago,Wentworth Ave & 24th St (Temp),25948,2
+Chicago,Paulina St & Howard St,25962,2
+Chicago,Marshfield Ave & 59th St,26071,2
+Chicago,Michigan Ave & 114th St,26094,2
+Chicago,Rhodes Ave & 71st St,26154,2
+Chicago,Central Ave & Harrison St,26250,2
+Chicago,Marshfield Ave & 44th St,26434,2
+Chicago,Sheridan Rd & Loyola Ave,26964,2
+Chicago,Major Ave & Bloomingdale Ave,27049,2
+Chicago,Sheridan Rd & Lawrence Ave,27169,2
+Chicago,Kenton Ave & Madison St,27266,2
+Chicago,Cicero Ave & Lake St,27266,2
+Chicago,Latrobe Ave & Chicago Ave,27292,2
+Chicago,Halsted St & 73rd St,27465,2
+Chicago,Keeler Ave & Roosevelt Rd,27599,2
+Chicago,MLK Jr Dr & 83rd St,27946,2
+Chicago,Emerald Ave & 31st St,28042,2
+Chicago,MLK Jr Dr & Pershing Rd,28125,2
+Chicago,Ashland Ave & Garfield Blvd,28250,2
+Chicago,Kedzie Ave & 24th St,28250,2
+Chicago,Spaulding Ave & 63rd St,28315,2
+Chicago,Rockwell St & 57th St,28750,2
+Chicago,Albany Ave & 26th St,29135,2
+Chicago,Laflin St & Cullerton St,29167,2
+Chicago,Ashland Ave & 50th St,29329,2
+Chicago,California Ave & 29th St,29375,2
+Chicago,California Ave & 26th St,29375,2
+Chicago,State St & 54th St,29495,2
+Chicago,DuSable Museum,29495,2
+Chicago,Prairie Ave & Garfield Blvd,29495,2
+Chicago,Lamon Ave & Chicago Ave,29671,2
+Chicago,Cicero Ave & Flournoy St,29688,2
+Chicago,California Ave & Marquette Rd,29773,2
+Chicago,Western Blvd & 48th Pl,29783,2
+Chicago,Hoyne Ave & 47th St,29783,2
+Chicago,Oglesby Ave & 100th St,29835,2
+Chicago,Damen Ave & 51st St,29926,2
+Chicago,Damen Ave & 59th St,30250,2
+Chicago,Lincoln Ave & Balmoral Ave,30446,2
+Chicago,Rainbow Beach,30564,2
+Chicago,Komensky Ave & 31st St,30610,2
+Evanston,Evanston Civic Center,30791,2
+Chicago,South Shore Dr & 74th St,31148,2
+Chicago,Cottage Grove Ave & 83rd St,31219,2
+Chicago,Lockwood Ave & Wrightwood Ave,31250,2
+Chicago,Ashland Ave & 63rd St,31331,2
+Chicago,Cottage Grove Ave & 71st St,31440,2
+Chicago,Jeffery Blvd & 71st St,31493,2
+Chicago,California Ave & 23rd Pl,31607,2
+Chicago,Homan Ave & 65th St,32121,2
+Chicago,Nordica & Medill,32576,2
+Chicago,Emerald Ave & 28th St,32632,2
+Chicago,Prairie Ave & 43rd St,33015,2
+Chicago,Kostner Ave & Adams St,33026,2
+Chicago,Cornell Dr & Hayes Dr,33028,2
+Chicago,Stony Island Ave & 67th St,33028,2
+Chicago,Stony Island Ave & 64th St,33028,2
+Chicago,Loomis St & Archer Ave,33306,2
+Chicago,Shields Ave & 31st St,33333,2
+Chicago,Shields Ave & 28th Pl,33333,2
+Chicago,Ashland Ave & 66th St,33571,2
+Chicago,S Michigan Ave & E 118th St,33712,2
+Chicago,Ellis Ave & 83rd St,33966,2
+Chicago,South Shore Dr & 67th St,34079,2
+Chicago,Pulaski Rd & 21st St,34107,2
+Chicago,Cottage Grove Ave & 43rd St,34327,2
+Chicago,Richmond St & 59th St,34331,2
+Chicago,Austin Blvd & Chicago Ave,34412,2
+Chicago,Marine Dr & Ainslie St,34508,2
+Chicago,Cottage Grove Ave & 51st St,34622,2
+Chicago,Ashland Ave & Pershing Rd,34674,2
+Chicago,Wells St & Elm St,34732,2
+Chicago,Karlov Ave & Madison St,35192,2
+Chicago,Pulaski Rd & Lake St,35192,2
+Chicago,Sacramento Ave & Pershing Rd,35208,2
+Chicago,Spaulding Ave & 16th St,35658,2
+Chicago,Wells St & 19th St,35723,2
+Chicago,Wentworth Ave & Cermak Rd,35723,2
+Chicago,Sheridan Rd & Columbia Ave,35795,2
+Chicago,Baltimore Ave & 87th St,35809,2
+Chicago,Commercial Ave & 83rd St,35809,2
+Chicago,Central Park Ave & 24th St,36080,2
+Chicago,Kedzie Ave & Bryn Mawr Ave,36126,2
+Chicago,Kedzie Ave & Harrison St,36167,2
+Chicago,Kedzie Ave & Milwaukee Ave,36370,2
+Chicago,Lake Park Ave & 53rd St,36406,2
+Chicago,California Ave & Byron St,36477,2
+Chicago,Jeffery Blvd & 67th St,36563,2
+Chicago,Loomis Blvd & 84th St,36679,2
+Chicago,Ellis Ave & 60th St,36719,2
+Chicago,Lawndale Ave & 16th St,36898,2
+Chicago,Evans Ave & 75th St,37018,2
+Chicago,Harding Ave & 26th St,37114,2
+Chicago,Long Ave & North Ave,37194,2
+Chicago,Clark St & Touhy Ave,37457,2
+Chicago,Kedzie Ave & 48th Pl,37581,2
+Chicago,Archer Ave & 43rd St,37627,2
+Chicago,Kildare Ave & 26th St,37866,2
+Chicago,Cottage Grove Ave & 67th St,37962,2
+Chicago,Western Ave & Howard St,38214,2
+Chicago,Greenwood Ave & 91st St,38375,2
+Chicago,Sacramento Blvd & Franklin Blvd,38404,2
+Chicago,Kedzie Ave & Chicago Ave,38404,2
+Chicago,Campbell Ave & 51st St,38426,2
+Chicago,Ashland Ave & Archer Ave,38448,2
+Chicago,Clinton St & 18th St,38448,2
+Chicago,Laramie Ave & Gladys Ave,38500,2
+Chicago,Laramie Ave & Madison St,38500,2
+Chicago,Meade Ave & Diversey Ave,38507,2
+Chicago,Laramie Ave & Kinzie St,38542,2
+Chicago,Kildare Ave & Division St,38603,2
+Chicago,Elizabeth St & 47th St,38750,2
+Chicago,Tripp Ave & 65th St,38945,2
+Chicago,Kenosha & Wellington,38967,2
+Chicago,Greenview Ave & Jarvis Ave,39004,2
+Chicago,Princeton Ave & 47th St,39250,2
+Chicago,Shields Ave & 43rd St,39250,2
+Chicago,Artesian Ave & 55th St,39338,2
+Chicago,Sedgwick St & Schiller St,39449,2
+Chicago,Kimbark Ave & 53rd St,39514,2
+Chicago,Wolcott Ave & Fargo Ave,39535,2
+Chicago,Ridge Blvd & Howard St,39535,2
+Chicago,Damen Ave & Walnut (Lake) St,39544,2
+Chicago,Ashland Ave & Lake St,39544,2
+Chicago,Ogden Ave & Congress Pkwy,39625,2
+Chicago,Damen Ave & Cullerton St,39769,2
+Chicago,Martin Luther King Dr & 111th St,40000,2
+Chicago,Marquette Ave & 89th St,40110,2
+Chicago,Vincennes Ave & 75th St,40144,2
+Chicago,Tripp Ave & 31st St,40242,2
+Chicago,Elizabeth St & 92nd St,40263,2
+Chicago,Steelworkers Park,40393,2
+Chicago,Exchange Ave & 79th St,40393,2
+Chicago,MLK Jr Dr & 56th St,40598,2
+Chicago,Milwaukee Ave & Cuyler Ave,41250,2
+Chicago,Homewood Ave & 115th St,41625,2
+Chicago,Halsted St & 104th St,41974,2
+Chicago,Lamon Ave & Belmont Ave,42330,2
+Chicago,Clark St & Lunt Ave,42371,2
+Chicago,Hegewisch Metra Station,42569,2
+Chicago,Dorchester Ave & 49th St,42589,2
+Chicago,California Ave & Division St,42717,2
+Chicago,Blue Island Ave & 18th St,42841,2
+Chicago,Kildare Ave & Chicago Ave,42986,2
+Chicago,California Ave & 36th St,43047,2
+Chicago,Central Park Ave & Ogden Ave,43145,2
+Chicago,Clark St & Schreiber Ave,43222,2
+Chicago,Western Ave & 24th St,43467,2
+Chicago,Bradley Park,43611,2
+Chicago,Commercial Ave & 100th St,43796,2
+Chicago,Rockwell St & Archer Ave,43975,2
+Chicago,Halsted St & 51st St,44018,2
+Chicago,St Louis Ave & 59th St,44199,2
+Chicago,Woodlawn Ave & 75th St,44250,2
+Chicago,Christiana Ave & Lawrence Ave,44271,2
+Chicago,Summit Ave & 86th St,44299,2
+Chicago,Fort Dearborn Dr & 31st St,44408,2
+Chicago,Michigan Ave & 71st St,44450,2
+Chicago,Hamlin Ave & 62nd Pl,44458,2
+Chicago,Dauphin Ave & 103rd St,44932,2
+Chicago,Damen Ave & 33rd St,44934,2
+Chicago,Woodlawn & 103rd - Olive Harvey Vaccination Site,45031,2
+Chicago,Central Ave & Parker Ave,45096,2
+Chicago,MLK Jr Dr & 29th St,45313,2
+Chicago,May St & Cullerton St,45417,2
+Evanston,Dodge Ave & Church St,45652,2
+Chicago,Millard Ave & 26th St,45694,2
+Chicago,South Chicago Ave & 83rd St,45733,2
+Chicago,Calumet Ave & 71st St,45739,2
+Chicago,Cottage Grove Ave & 111th Pl,45781,2
+Chicago,Lake Park Ave & 35th St,45814,2
+Chicago,California Ave & 21st St,45883,2
+Chicago,Keystone Ave & Fullerton Ave,46250,2
+Chicago,Indiana Ave & 31st St,46688,2
+Chicago,Indiana Ave & 26th St,46688,2
+Chicago,Clark St & Jarvis Ave,47024,2
+Chicago,Lamon Ave & Armitage Ave,47067,2
+Chicago,Ashland Ave & 74th St,47400,2
+Chicago,Clark St & Columbia Ave,47500,2
+Chicago,Sheridan Rd & Greenleaf Ave,47615,2
+Chicago,Blackstone Ave & Hyde Park Blvd,47772,2
+Chicago,Ashland Ave & McDowell Ave,47798,2
+Chicago,Mason Ave & Belmont Ave,47903,2
+Chicago,Pine Grove Ave & Waveland Ave,48051,2
+Chicago,Maplewood Ave & Peterson Ave,48088,2
+Chicago,Major Taylor Trail & 124th St,48182,2
+Chicago,Lawndale Ave & 30th St,48194,2
+Chicago,Stewart Ave & 83rd St,48412,2
+Chicago,Doty Ave & 111th St,48681,2
+Chicago,Indiana Ave & 40th St,48882,2
+Chicago,Sheridan Rd & Buena Ave,48985,2
+Chicago,Lavergne & Fullerton,49148,2
+Chicago,Kildare Ave & 55th St,49755,2
+Chicago,St Louis Ave & Norman Bobbins Ave,49800,2
+Chicago,Central Park Ave & Bloomingdale Ave,49900,2
+Chicago,Stony Island Ave & South Chicago Ave,50000,3
+Chicago,Broadway & Berwyn Ave,50156,3
+Chicago,State St & 76th St,50167,3
+Chicago,Austin Blvd & Madison St,50238,3
+Chicago,Cottage Grove Ave & 47th St,50272,3
+Chicago,Washtenaw Ave & Ogden Ave,50486,3
+Chicago,Fairfield Ave & Roosevelt Rd,50486,3
+Chicago,Stony Island Ave & 90th St,50709,3
+Chicago,Rhodes Ave & 32nd St,51000,3
+Chicago,Lawler Ave & 50th St,51406,3
+Chicago,Halsted St & 21st St,51607,3
+Chicago,Normal Ave & Archer Ave,51750,3
+Chicago,S Aberdeen St & W 106th St,51848,3
+Chicago,Clyde Ave & 87th St,51932,3
+Chicago,Damen Ave & Pershing Rd,52008,3
+Chicago,Kenneth Ave & 50th St,52031,3
+Chicago,Pulaski Rd & 51st St,52109,3
+Chicago,Albany Ave & Belmont Ave,52321,3
+Chicago,Long Ave & Belden Ave,52361,3
+Chicago,Budlong Woods Library,52633,3
+Chicago,Menard Ave & Division St,52647,3
+Chicago,Pulaski Rd & 60th St,52656,3
+Chicago,DuSable Lake Shore Dr & Wellington Ave,52708,3
+Chicago,Damen Ave & Coulter St,52870,3
+Chicago,Kildare & Cermak,52931,3
+Chicago,Major Taylor Trail & 115th St,53173,3
+Chicago,Halsted St & 111th St,53173,3
+Chicago,Eggleston Ave & 92nd St,53203,3
+Chicago,Yates Blvd & 93rd St,53239,3
+Chicago,Western Ave & Granville Ave,53386,3
+Chicago,Spaulding Ave & Division St,53500,3
+Chicago,Kostner Ave & Wrightwood Ave,53561,3
+Chicago,Wood St & 35th St,53716,3
+Chicago,Eberhart Ave & 91st St,53750,3
+Chicago,California Ave & Francis Pl (Temp),53750,3
+Chicago,Wentworth Ave & 104th St,54038,3
+Chicago,Western Ave & 21st St,54286,3
+Chicago,St. Louis Ave & Balmoral Ave,54292,3
+Chicago,Eastlake Ter & Rogers Ave,54297,3
+Chicago,Bosworth Ave & Howard St,54297,3
+Chicago,Sheridan Rd & Montrose Ave,54306,3
+Chicago,Clarendon Ave & Gordon Ter,54625,3
+Chicago,Drake Ave & Addison St,54688,3
+Chicago,Kilpatrick Ave & Parker Ave,54750,3
+Chicago,Wallace St & 35th St,55000,3
+Chicago,Broadway & Wilson - Truman College Vaccination Site,55236,3
+Chicago,Avenue L & 114th St,55325,3
+Chicago,Sawyer Ave & Irving Park Rd,55417,3
+Chicago,Central Park Ave & North Ave,55625,3
+Chicago,Clarendon Ave & Leland Ave,55707,3
+Chicago,Lavergne Ave & 46th St,55714,3
+Chicago,Halsted St & 96th St,55833,3
+Chicago,Kilbourn & Belden,55972,3
+Chicago,Paulina St & 18th St,55972,3
+Chicago,Wentworth Ave & 63rd St,55987,3
+Chicago,Springfield Ave & 47th St,56008,3
+Chicago,Parkside Ave & Armitage Ave,56078,3
+Chicago,Morgan St & Polk St,56136,3
+Chicago,May St & Taylor St,56136,3
+Chicago,Hale Ave & 107th St,56400,3
+Chicago,Whipple St & Irving Park Rd,56458,3
+Chicago,Troy St & North Ave,56563,3
+Chicago,California Ave & Cortez St,57277,3
+Chicago,Kedzie Ave & Leland Ave,57303,3
+Chicago,Kosciuszko Park,57566,3
+Chicago,Loomis St & 89th St,57772,3
+Chicago,Hoyne Ave & 34th St,57963,3
+Chicago,Calumet Park,58036,3
+Chicago,Ewing Ave & Burnham Greenway,58036,3
+Chicago,Kilbourn & Roscoe,58100,3
+Chicago,Vernon Ave & 75th St,58111,3
+Chicago,Lincoln Ave & Winona St,58118,3
+Chicago,Broadway & Barry Ave,58411,3
+Chicago,State St & 123rd St,58426,3
+Chicago,Pulaski & Ann Lurie Pl,58625,3
+Chicago,Kedzie Ave & Foster Ave,58750,3
+Chicago,State St & 95th St,59115,3
+Chicago,Western Ave & Fillmore St,59119,3
+Chicago,Harlem Ave & Grace St,59239,3
+Chicago,Chicago State University,59297,3
+Chicago,Francisco Ave & Foster Ave,59356,3
+Chicago,Keystone Ave & Montrose Ave,59526,3
+Chicago,Avers Ave & Belmont Ave,60114,3
+Chicago,Yates Blvd & 75th St,60296,3
+Chicago,Jeffery Blvd & 76th St,60296,3
+Chicago,Fairfield Ave & 44th St,60475,3
+Chicago,Narragansett & Wrightwood,60481,3
+Chicago,Oak Park & Wellington,60536,3
+Chicago,California Ave & Fletcher St,60948,3
+Chicago,Albany Ave & Montrose Ave,61000,3
+Chicago,Racine Ave & 18th St,61250,3
+Chicago,Paulina St & Flournoy St,61458,3
+Chicago,Wolcott Ave & Polk St,61458,3
+Chicago,Wood St & Taylor St (Temp),61458,3
+Chicago,Hermitage Ave & Polk St,61458,3
+Chicago,Oakley Ave & Touhy Ave,61483,3
+Chicago,Morgan St & 31st St,61566,3
+Chicago,Mulligan Ave & Wellington Ave,61779,3
+Chicago,Cornell Ave & Hyde Park Blvd,61806,3
+Chicago,Halsted St & Archer Ave,61806,3
+Chicago,Monticello Ave & Irving Park Rd,61895,3
+Chicago,Cicero Ave & Grace St,62130,3
+Chicago,Oketo Ave & Addison St,62813,3
+Chicago,Woodlawn Ave & Lake Park Ave,62917,3
+Chicago,Lakefront Trail & Bryn Mawr Ave,62935,3
+Chicago,2112 W Peterson Ave,62961,3
+Chicago,Central Ave & Chicago Ave,63108,3
+Chicago,Stockton Dr & Wrightwood Ave,63370,3
+Chicago,Theater on the Lake,63370,3
+Chicago,Cannon Dr & Fullerton Ave,63370,3
+Chicago,Broadway & Waveland Ave,64079,3
+Chicago,Vernon Ave & 107th St,64191,3
+Chicago,Western Ave & Division St,64330,3
+Chicago,East End Ave & 87th St,64375,3
+Chicago,Clark St & Drummond Pl,64420,3
+Chicago,Campbell Ave & Fullerton Ave,64760,3
+Chicago,Halsted St & 37th St,64912,3
+Chicago,Orange & Addison,65069,3
+Chicago,Meade Ave & Addison St,65096,3
+Chicago,Wilton Ave & Belmont Ave,65099,3
+Chicago,Halsted St & 18th St (Temp),65179,3
+Chicago,Bennett Ave & 79th St,65459,3
+Chicago,Damen Ave & Foster Ave,65536,3
+Chicago,Wabash Ave & 87th St,65636,3
+Chicago,Wabash Ave & 83rd St,65636,3
+Chicago,Kedzie Ave & Palmer Ct,66435,3
+Chicago,Archer (Damen) Ave & 37th St,67250,3
+Chicago,Leavitt St & Archer Ave,67250,3
+Chicago,Central Park Ave & Ohio St,67863,3
+Chicago,Monticello Ave & Chicago Ave,67863,3
+Chicago,Commercial Ave & 130th St,68203,3
+Chicago,Torrence Ave & 126th Pl,68203,3
+Chicago,Broadway & Granville Ave,68214,3
+Evanston,Chicago Ave & Sheridan Rd,68250,3
+Chicago,Kedzie Ave & 57th St,68450,3
+Chicago,St. Clair St & Erie St,68500,3
+Chicago,Mies van der Rohe Way & Chicago Ave,68500,3
+Chicago,N Clark St & W Elm St,68606,3
+Chicago,Clark St & Elm St,68606,3
+Chicago,Shore Dr & 55th St,68648,3
+Evanston,Elmwood Ave & Austin St,68750,3
+Chicago,Ridge Blvd & Touhy Ave,68947,3
+Chicago,State St & 35th St,69000,3
+Chicago,State St & 33rd St,69000,3
+Chicago,Paulina St & Montrose Ave,69167,3
+Chicago,Clark St & Montrose Ave,69167,3
+Chicago,University Ave & 57th St,69429,3
+Chicago,Ellis Ave & 55th St,69429,3
+Chicago,Ellis Ave & 58th St,69429,3
+Chicago,Narragansett & Irving Park,69750,3
+Chicago,Montrose Harbor,70237,3
+Chicago,Long Ave & Belmont Ave,70481,3
+Chicago,Long & Irving Park,70625,3
+Chicago,Spaulding Ave & Armitage Ave,70750,3
+Evanston,Chicago Ave & Washington St,71125,3
+Chicago,Morgan St & Pershing Rd,71705,3
+Chicago,Halsted St & 35th St,71705,3
+Chicago,Troy St & Grace St,71759,3
+Chicago,St. Louis Ave & Fullerton Ave,71875,3
+Chicago,Pulaski Rd & Eddy St (Temp),71932,3
+Chicago,Bernard St & Elston Ave,72222,3
+Chicago,Broadway & Cornelia Ave,72308,3
+Chicago,Ellis Ave & 53rd St,72500,3
+Evanston,Benson Ave & Church St,73031,3
+Chicago,Walden Pkwy & 100th St,73421,3
+Chicago,Oakley Ave & Irving Park Rd,73449,3
+Chicago,Throop St & Taylor St,73558,3
+Chicago,Kimball Ave & Belmont Ave,73571,3
+Norridge,Harlem & Irving Park,73889,3
+Chicago,Western Ave & Lunt Ave,74597,3
+Chicago,Central Park Ave & Elbridge Ave,74961,3
+Chicago,Western & 28th - Velasquez Institute Vaccination Site,75074,4
+Chicago,W Oakdale Ave & N Broadway,75750,4
+Chicago,Sayre & Diversey,75769,4
+Chicago,Komensky Ave & 55th St,75859,4
+Chicago,Racine Ave & 35th St,76143,4
+Chicago,Clark St & Bryn Mawr Ave,76222,4
+Chicago,California Ave & North Ave,76250,4
+Chicago,DuSable Lake Shore Dr & Belmont Ave,76792,4
+Chicago,Clark St & Wrightwood Ave,77039,4
+Chicago,Racine Ave & 15th St,77054,4
+Chicago,Stony Island Ave & 82nd St,77067,4
+Chicago,State St & Pearson St,77605,4
+Chicago,Glenwood Ave & Touhy Ave,77829,4
+Chicago,Kildare Ave & Montrose Ave,77917,4
+Chicago,Panama Ave & Grace St,78099,4
+Chicago,Clark St & Winnemac Ave,78333,4
+Chicago,Broadway & Ridge Ave,78542,4
+Chicago,Albany Ave & Bloomingdale Ave,79231,4
+Chicago,Milwaukee Ave & Rockwell St,79375,4
+Chicago,Stave St & Armitage Ave,79375,4
+Chicago,Rockwell St & Eastwood Ave,79519,4
+Chicago,Vincennes Ave & 104th St,80208,4
+Chicago,Milwaukee Ave & Fullerton Ave,80347,4
+Chicago,Shabbona Park,80739,4
+Chicago,Avondale Ave & Irving Park Rd,80962,4
+Chicago,Western Ave & 111th St,81429,4
+Chicago,Morgan St & 18th St,81618,4
+Chicago,Winthrop Ave & Lawrence Ave,82222,4
+Chicago,Ravenswood Ave & Berteau Ave,82800,4
+Chicago,South Chicago Ave & Elliot Ave,83367,4
+Chicago,Lake Park Ave & 47th St,83443,4
+Chicago,Damen Ave & Clybourn Ave,83472,4
+Chicago,Leavitt St & Chicago Ave,83958,4
+Chicago,Federal St & Polk St,84281,4
+Chicago,Loomis St & Lexington St,84625,4
+Chicago,Racine Ave & Congress Pkwy,84625,4
+Chicago,Clark St & Leland Ave,84758,4
+Chicago,Manor Ave & Leland Ave,85097,4
+Chicago,Avenue O & 134th St,85139,4
+Chicago,Greenwood Ave & 97th St,85278,4
+Chicago,Ravenswood Ave & Lawrence Ave,85441,4
+Chicago,Ravenswood Ave & Irving Park Rd,85515,4
+Chicago,Union Ave & Root St,85667,4
+Chicago,Avenue O & 118th St,85724,4
+Chicago,Morgan Ave & 14th Pl,85865,4
+Chicago,Clark St & Elmdale Ave,85917,4
+Chicago,Roscoe & Harlem,85921,4
+Chicago,Western Ave & Leland Ave,86071,4
+Chicago,Cherry Ave & Blackhawk St,86250,4
+Chicago,Halsted St & North Branch St,86250,4
+Chicago,Larrabee St & Oak St,86250,4
+Chicago,Larrabee St & Division St,86250,4
+Chicago,Halsted St & Clybourn Ave,86250,4
+Chicago,Dayton St & North Ave,86250,4
+Chicago,Sheffield Ave & Kingsbury St,86250,4
+Chicago,Pine Grove Ave & Irving Park Rd,86486,4
+Chicago,N Damen Ave & W Chicago Ave,86563,4
+Chicago,Damen Ave & Chicago Ave,86563,4
+Chicago,Mies van der Rohe Way & Chestnut St,87708,4
+Chicago,Halsted St & Roscoe St,87944,4
+Chicago,Broadway & Belmont Ave,87944,4
+Chicago,Burnham Greenway & 105th St,87955,4
+Chicago,Western Ave & Gunnison St,88542,4
+Chicago,Washtenaw Ave & Lawrence Ave,88542,4
+Chicago,N Sheffield Ave & W Wellington Ave,88594,4
+Chicago,Sheffield Ave & Wellington Ave,88594,4
+Chicago,Broadway & Sheridan Rd,88917,4
+Chicago,Sheridan Rd & Irving Park Rd,88917,4
+Evanston,Dodge Ave & Mulford St,89318,4
+Chicago,W 103rd St & S Avers Ave,89375,4
+Chicago,DuSable Lake Shore Dr & Ohio St,89559,4
+Chicago,Streeter Dr & Grand Ave,89559,4
+Chicago,Smith Park,89688,4
+Chicago,Artesian Ave & Hubbard St,89688,4
+Chicago,Damen Ave & Grand Ave,89750,4
+Chicago,DuSable Lake Shore Dr & North Blvd,90417,4
+Chicago,Clark St & North Ave,90417,4
+Chicago,Clark St & Armitage Ave,90417,4
+Chicago,Calumet Ave & 21st St,90573,4
+Chicago,Adler Planetarium,90573,4
+Chicago,Field Museum,90573,4
+Chicago,Wabash Ave & Cermak Rd,90573,4
+Chicago,Burnham Harbor,90573,4
+Chicago,Shedd Aquarium,90573,4
+Chicago,Humboldt Blvd & Armitage Ave,90750,4
+Chicago,Dorchester Ave & 63rd St,90857,4
+Chicago,Lakeview Ave & Fullerton Pkwy,90987,4
+Chicago,Damen Ave & Sunnyside Ave,91094,4
+Chicago,Lincoln Ave & Sunnyside Ave,91094,4
+Chicago,Ritchie Ct & Banks St,91920,4
+Chicago,Michigan Ave & 8th St,91985,4
+Chicago,Wabash Ave & 9th St,91985,4
+Chicago,Clark St & Wellington Ave,92188,4
+Chicago,Drake Ave & Montrose Ave,92438,4
+Chicago,Wells St & Concord Ln,93021,4
+Chicago,Fairbanks St & Superior St,93125,4
+Chicago,McClurg Ct & Erie St,93125,4
+Chicago,Lakefront Trail & Wilson Ave,93274,4
+Chicago,Clarendon Ave & Junior Ter,93274,4
+Chicago,Orleans St & Elm St,93393,4
+Chicago,Aberdeen St & Jackson Blvd,93984,4
+Chicago,Loomis St & Jackson Blvd,94229,4
+Chicago,Wolcott (Ravenswood) Ave & Montrose Ave,94355,4
+Chicago,Knox Ave & Montrose Ave,94643,4
+Chicago,Kilbourn Ave & Irving Park Rd,94643,4
+Chicago,Southport Ave & Clark St,94900,4
+Chicago,California Ave & Milwaukee Ave,94931,4
+Chicago,Bloomingdale Ave & Harlem Ave,94938,4
+Chicago,Western Ave & Walton St,95429,4
+Chicago,Clark St & Schiller St,95724,4
+Chicago,California Ave & Altgeld St,95924,4
+Chicago,Central Ave & Roscoe St,96083,4
+Chicago,Hoyne Ave & Balmoral Ave,96094,4
+Chicago,Winchester (Ravenswood) Ave & Balmoral Ave,96094,4
+Chicago,Prospect Sq & 91st St,96250,4
+Chicago,Campbell Ave & Montrose Ave,97604,4
+Chicago,Dearborn St & Van Buren St,97837,4
+Chicago,Franklin St & Monroe St,97837,4
+Chicago,Franklin St & Adams St (Temp),97837,4
+Chicago,Financial Pl & Ida B Wells Dr,97837,4
+Chicago,Clark St & Ida B Wells Dr,97837,4
+Chicago,Franklin St & Jackson Blvd,97837,4
+Chicago,McCormick Place,98320,4
+Chicago,Western Ave & Congress Pkwy,99091,4
+Chicago,Claremont Ave & Hirsch St,100227,5
+Chicago,Damen Ave & Leland Ave,100556,5
+Chicago,Wabash Ave & Grand Ave,100563,5
+Chicago,Rush St & Hubbard St,100563,5
+Chicago,State St & Kinzie St,100563,5
+Chicago,Campbell Ave & North Ave,102083,5
+Chicago,Troy St & Elston Ave,102813,5
+Chicago,Dusable Harbor,102848,5
+Chicago,Damen Ave & Thomas St (Augusta Blvd),103274,5
+Chicago,LaSalle St & Jackson Blvd,103558,5
+Chicago,Franklin St & Lake St,103558,5
+Chicago,LaSalle St & Washington St,103558,5
+Chicago,Daley Center Plaza,103558,5
+Chicago,Clark St & Randolph St,103558,5
+Chicago,Dearborn St & Monroe St,103558,5
+Chicago,LaSalle St & Adams St,103558,5
+Chicago,Clark St & Lake St,103558,5
+Chicago,Dearborn St & Adams St,103558,5
+Chicago,State St & Van Buren St,103558,5
+Chicago,Wacker Dr & Washington St,103558,5
+Chicago,Leavitt St & Lawrence Ave,103594,5
+Chicago,Plainfield & Irving Park,103727,5
+Chicago,Wells St & Walton St,103750,5
+Chicago,Ashland Ave & Grand Ave,104188,5
+Chicago,Stetson Ave & South Water St,104307,5
+Chicago,Wabash Ave & Wacker Pl,104307,5
+Chicago,Michigan Ave & Lake St,104307,5
+Chicago,State St & Randolph St,104307,5
+Chicago,N Paulina St & Lincoln Ave,104750,5
+Chicago,Lincoln Ave & Addison St,104750,5
+Chicago,Lincoln Ave & Roscoe St,104750,5
+Chicago,California Ave & Montrose Ave,105167,5
+Chicago,Fairbanks Ct & Grand Ave,105168,5
+Chicago,Clark St & 9th St (AMLI),105380,5
+Chicago,Canal St & Monroe St,105481,5
+Chicago,Jefferson St & Monroe St,105481,5
+Chicago,Wood St & Augusta Blvd,105560,5
+Chicago,Kedzie Ave & 104th St,105625,5
+Chicago,Kostner Ave & 63rd St,105873,5
+Chicago,Ogden Ave & Race Ave,106333,5
+Chicago,Wabash Ave & Roosevelt Rd,106690,5
+Chicago,DuSable Lake Shore Dr & Diversey Pkwy,106771,5
+Evanston,Valli Produce - Evanston Plaza,107375,5
+Chicago,State St & Harrison St,108190,5
+Chicago,Lincoln Ave & Belle Plaine Ave,108422,5
+Chicago,Richmond St & Diversey Ave,108462,5
+Chicago,Greenwood Ave & 47th St,108800,5
+Chicago,Columbus Dr & Randolph St,109000,5
+Chicago,Field Blvd & South Water St,109000,5
+Chicago,Clark St & Berwyn Ave,109191,5
+Chicago,Halsted St & Wrightwood Ave,109671,5
+Chicago,Canal St & Harrison St,110404,5
+Chicago,900 W Harrison St,110404,5
+Chicago,Halsted St & Polk St,110404,5
+Chicago,Clinton St & Tilden St,110404,5
+Glenview,Central St Metra,110855,5
+Chicago,Damen Ave & Wellington Ave,111765,5
+Evanston,Dodge Ave & Main St,111806,5
+Chicago,Southport Ave & Irving Park Rd,112009,5
+Chicago,Damen Ave & Charleston St,112045,5
+Chicago,Leavitt St & Armitage Ave,112045,5
+Chicago,Ashland Ave & Belle Plaine Ave,113625,5
+Chicago,Leavitt St & Belmont Ave,113864,5
+Chicago,LaSalle Dr & Huron St,114423,5
+Chicago,LaSalle St & Illinois St,114423,5
+Chicago,Indiana Ave & Roosevelt Rd,114737,5
+Chicago,Western Ave & 104th St,115313,5
+Chicago,Narragansett & McLean,115521,5
+Chicago,Hampden Ct & Diversey Ave,115625,5
+Chicago,Leavitt St & Addison St,116488,5
+Chicago,Seeley Ave & Roscoe St,116488,5
+Chicago,Calumet Ave & 18th St,116541,5
+Chicago,Michigan Ave & 18th St,116541,5
+Chicago,Wabash Ave & 16th St,116541,5
+Chicago,Larrabee St & Webster Ave,116875,5
+Chicago,Lincoln Ave & Fullerton Ave,116875,5
+Chicago,Lincoln Ave & Waveland Ave,116983,5
+Chicago,Clark St & Grace St,117500,5
+Chicago,Sheffield Ave & Waveland Ave,117500,5
+Chicago,Ashland Ave & Blackhawk St,117625,5
+Chicago,North Ave & New England Ave,118553,5
+Chicago,Damen Ave & Division St,118833,5
+Chicago,Honore St & Division St,118833,5
+Chicago,Burling St & Diversey Pkwy,119125,5
+Chicago,Racine Ave & Belmont Ave,119621,5
+Chicago,Walsh Park,120052,5
+Chicago,Winchester Ave & Elston Ave,120052,5
+Chicago,Elston Ave & Cortland St,120052,5
+Chicago,Lake Park Ave & 56th St,121500,5
+Chicago,Clark St & Newport St,121818,5
+Chicago,Clark St & Lincoln Ave,121895,5
+Chicago,Canal St & Taylor St,122321,5
+Chicago,Halsted St & Maxwell St,122321,5
+Chicago,Clinton St & Polk St,122321,5
+Chicago,Clinton St & Roosevelt Rd,122321,5
+Chicago,Halsted St & Roosevelt Rd,122321,5
+Chicago,Larrabee St & Armitage Ave,123056,5
+Chicago,Wood St & Chicago Ave,123942,5
+Chicago,Ashland Ave & Chicago Ave,123942,5
+Chicago,Lincoln Park Conservatory,124643,5
+Chicago,Damen Ave & Wabansia Ave,125882,6
+Chicago,Kedzie Ave & 110th St,126207,6
+Chicago,Western Ave & Roscoe St,126250,6
+Chicago,Wood St & Hubbard St,126250,6
+Chicago,Wood St & Milwaukee Ave,129219,6
+Chicago,Leavitt St & Division St,130625,6
+Chicago,Broadway & Thorndale Ave,131181,6
+Chicago,Dearborn Pkwy & Delaware Pl,131250,6
+Chicago,Wells St & Polk St,133341,6
+Chicago,Ashland Ave & Augusta Blvd,133500,6
+Chicago,Canal St & Madison St,136103,6
+Chicago,Desplaines St & Randolph St,136103,6
+Chicago,Clinton St & Washington Blvd,136103,6
+Chicago,Clinton St & Madison St,136103,6
+Chicago,Clinton St & Lake St,136103,6
+Chicago,Ping Tom Park (East),136354,6
+Chicago,Delano Ct & Roosevelt Rd,136354,6
+Chicago,State St & 19th St,136354,6
+Chicago,N Southport Ave & W Newport Ave,136750,6
+Chicago,Southport Ave & Roscoe St,136750,6
+Chicago,Franklin St & Illinois St,137151,6
+Chicago,Orleans St & Chestnut St (NEXT Apts),137151,6
+Chicago,Wells St & Huron St,137151,6
+Chicago,Franklin St & Chicago Ave,137151,6
+Chicago,Southport Ave & Waveland Ave,138000,6
+Chicago,Logan Blvd & Elston Ave,138636,6
+Chicago,Racine Ave & Washington Blvd,138650,6
+Chicago,Aberdeen St & Randolph St,138650,6
+Chicago,Ada St & Washington Blvd,138650,6
+Chicago,Elizabeth (May) St & Fulton St,138650,6
+Chicago,Racine Ave & Randolph St,138650,6
+Chicago,Michigan Ave & Pearson St,139615,6
+Chicago,Desplaines St & Kinzie St,139722,6
+Chicago,Ogden Ave & Chicago Ave,139722,6
+Chicago,Wells St & Evergreen Ave,139856,6
+Chicago,Dearborn St & Erie St,140305,6
+Chicago,Talman Ave & Addison St,140417,6
+Chicago,Southport Ave & Belmont Ave,140556,6
+Chicago,Southport Ave & Wellington Ave,140556,6
+Chicago,Clark St & Chicago Ave,141003,6
+Chicago,W Armitage Ave & N Sheffield Ave,141481,6
+Chicago,Carpenter St & Huron St,142225,6
+Chicago,Milwaukee Ave & Grand Ave,142225,6
+Chicago,Ashland Ave & Division St,144514,6
+Chicago,Michigan Ave & 14th St,144734,6
+Chicago,Damen Ave & Melrose Ave,145000,6
+Chicago,Elston Ave & Wabansia Ave,145104,6
+Chicago,Eckhart Park,145104,6
+Chicago,Damen Ave & Cortland St,145694,6
+Chicago,Western Ave & Winnebago Ave,146103,6
+Chicago,Larrabee St & Menomonee St,147031,6
+Chicago,Orleans St & Hubbard St,147234,6
+Chicago,Wells St & Hubbard St,147234,6
+Chicago,Kingsbury St & Kinzie St,147234,6
+Chicago,Orleans St & Merchandise Mart Plaza,147234,6
+Chicago,Sheffield Ave & Webster Ave,148542,6
+Chicago,Clifton Ave & Armitage Ave,148542,6
+Chicago,Bissell St & Armitage Ave,148611,6
+Chicago,Noble St & Milwaukee Ave,149922,6
+Chicago,Southport Ave & Wrightwood Ave,150078,7
+Chicago,Greenview Ave & Fullerton Ave,150078,7
+Chicago,Rush St & Cedar St,150179,7
+Chicago,Leavitt St & North Ave,150188,7
+Chicago,Milwaukee Ave & Wabansia Ave,150188,7
+Chicago,N Green St & W Lake St,151729,7
+Chicago,W Washington Blvd & N Peoria St,151729,7
+Chicago,N Carpenter St & W Lake St,151729,7
+Chicago,Sangamon St & Washington Blvd,151729,7
+Chicago,Green St & Madison St,151729,7
+Chicago,Green St & Randolph St,151729,7
+Chicago,Morgan St & Lake St,151729,7
+Chicago,Sedgwick St & Webster Ave,152134,7
+Chicago,Racine Ave & Wrightwood Ave,154050,7
+Chicago,Kilbourn Ave & Milwaukee Ave,154375,7
+Chicago,Cityfront Plaza Dr & Pioneer Ct,155248,7
+Chicago,New St & Illinois St,155248,7
+Chicago,Southport Ave & Clybourn Ave,156000,7
+Chicago,Paulina Ave & North Ave,156500,7
+Chicago,Ashland Ave & Wrightwood Ave,156581,7
+Chicago,Sedgwick St & Huron St,156958,7
+Chicago,Kingsbury St & Erie St,156958,7
+Chicago,Halsted St & Willow St,157917,7
+Chicago,Lincoln Ave & Belmont Ave,158462,7
+Chicago,Ashland Ave & Grace St,161483,7
+Chicago,Clinton St & Jackson Blvd,162704,7
+Chicago,Canal St & Adams St,162704,7
+Chicago,Desplaines St & Jackson Blvd,162704,7
+Chicago,Canal St & Jackson Blvd,162704,7
+Chicago,Ashland Ave & Wellington Ave,164286,7
+Chicago,Sheffield Ave & Willow St,165375,7
+Evanston,Lincolnwood Dr & Central St,167656,7
+Chicago,Michigan Ave & Jackson Blvd,168958,7
+Chicago,Millennium Park,168958,7
+Chicago,Michigan Ave & Ida B Wells Dr,168958,7
+Chicago,Wabash Ave & Adams St,168958,7
+Chicago,Buckingham Fountain,168958,7
+Chicago,Peoria St & Jackson Blvd,170068,7
+Chicago,Aberdeen St & Monroe St,170068,7
+Chicago,Rush St & Superior St,171538,7
+Chicago,Lawndale Ave & 111th St,175000,8
+Chicago,Sheffield Ave & Wrightwood Ave,182292,8
+Chicago,Sheffield Ave & Fullerton Ave,182292,8
+Chicago,Wilton Ave & Diversey Pkwy,182292,8
+Chicago,Sedgwick St & North Ave,188636,8
+Chicago,Larrabee St & North Ave,188676,8
+Chicago,Halsted St & Dickens Ave,189250,8
+Chicago,Larrabee St & Kingsbury St,194167,8
+Evanston,University Library (NU),200909,9
+Chicago,Racine Ave & Fullerton Ave,204688,9
+Chicago,Harper Ave & 59th St,205855,9
+Chicago,Museum of Science and Industry,205855,9
+Chicago,Michigan Ave & Madison St,208234,9
+Chicago,DuSable Lake Shore Dr & Monroe St,208234,9
+Chicago,Michigan Ave & Washington St,208234,9
+Chicago,Michigan Ave & Oak St,210278,9
+Chicago,Lincoln Ave & Diversey Pkwy,211042,9
+Evanston,Sheridan Rd & Noyes St (NU),227639,10
+Evanston,Central St & Girard Ave,227639,10
+Chicago,Greenview Ave & Diversey Pkwy,235833,10
