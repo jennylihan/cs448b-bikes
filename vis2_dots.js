@@ -1,30 +1,11 @@
 //SVG setup
 const margin = { top: 40, right: 30, bottom: 30, left: 50 },
-  width = 1600 - margin.left - margin.right,
+  width = 1200 - margin.left - margin.right,
   height = 300 - margin.top - margin.bottom;
 
 //x scales
 const y = d3.scaleLinear().rangeRound([0, height]).domain([0, 17]);
 
-const medians = { chicago: 58247 };
-const buckets = {
-  1: 67,
-  2: 40,
-  3: 32,
-  4: 39,
-  5: 34,
-  6: 37,
-  7: 28,
-  8: 28,
-  9: 24,
-  10: 48,
-  11: 66,
-  12: 84,
-  13: 67,
-  14: 48,
-  15: 59,
-  16: 78,
-};
 //set up svg
 const svg = d3
   .select("body")
@@ -44,7 +25,7 @@ const tooltip = d3
 const t = d3.transition().duration(1000);
 
 const dataFile = "chicago.csv";
-
+const medians = { chicago: 58247 };
 //number of bins for histogram
 const nbins = 16;
 
@@ -52,6 +33,54 @@ const nbins = 16;
 //as d3.csv is replaced by tabletop.js request to get data each time
 //from google spreadsheet
 function update() {
+  let distributionFile = "counts.csv";
+
+  // get the data
+  d3.csv(distributionFile, function (data) {
+    // X axis: scale and draw:
+    var dist_x = d3
+      .scaleLinear()
+      .domain([0, 17]) // can use this instead of 1000 to have the max of data: d3.max(data, function(d) { return +d.price })
+      .range([0, height]);
+    // svg.append("g").call(d3.axisLeft(dist_x));
+
+    // set the parameters for the histogram
+    var histogram = d3
+      .histogram()
+      .value(function (d) {
+        return d.bucket;
+      }) // I need to give the vector of value
+      .domain(dist_x.domain()) // then the domain of the graphic
+      .thresholds(dist_x.ticks(nbins)); // then the numbers of bins
+
+    // // And apply this function to data to get the bins
+    var dist_bins = histogram(data);
+
+    // Y axis: scale and draw:
+    var dist_y = d3.scaleLinear().range([width, 0]);
+    dist_y.domain([100, 0]); // d3.hist has to be called before the Y axis obviously
+    // svg.append("g").call(d3.axisBottom(y));
+
+    // append the bar rectangles to the svg element
+    svg
+      .selectAll("rect")
+      .data(dist_bins)
+      .enter()
+      .append("rect")
+      .attr("x", 1)
+      .attr("transform", function (d) {
+        return "translate(" + 10 + "," + dist_x(d.x0 - 0.4) + ")";
+      })
+      .attr("height", function (d) {
+        return dist_x(d.x1) - dist_x(d.x0) - 1;
+      })
+      .attr("width", function (d) {
+        return dist_y(d.length * 0.8);
+      })
+      .style("opacity", 0.5)
+      .style("fill", "#ADA8A8");
+  });
+
   // Get the data
   d3.csv(dataFile, function (error, allData) {
     allData.forEach(function (d) {
@@ -110,7 +139,7 @@ function update() {
       })
       .attr("fill", function (d) {
         console.log(d.belowMedian);
-        return d.belowMedian ? "#edca3a" : "#1fbad6";
+        return d.belowMedian ? "#f17720" : "#1fbad6";
       })
       .attr("r", 0)
       .on("mouseover", tooltipOn)
@@ -156,7 +185,7 @@ function update() {
       })
       .attr("r", 0)
       .attr("fill", function (d) {
-        return d.belowMedian ? "#edca3a" : "#1fbad6";
+        return d.belowMedian ? "#f17720" : "#1fbad6";
       })
       .merge(dots)
       .on("mouseover", tooltipOn)
@@ -167,6 +196,25 @@ function update() {
         return d.length == 0 ? 0 : d.radius;
       });
   }); //d3.csv
+  svg
+    .append("text")
+    .attr("x", margin.left + 150)
+    .attr("y", 0 - margin.top / 2)
+    .attr("text-anchor", "middle")
+    .style("font-size", "16px")
+    .style("text-decoration", "underline")
+    .text(
+      "[Chicago] Bike station vs population distribution over income brackets"
+    );
+  svg
+    .append("text")
+    .attr("x", margin.left + 150)
+    .attr("y", height + 25)
+    .attr("text-anchor", "middle")
+    .style("font-size", "12px")
+    .text(
+      "Orange: below median; Blue: above median; Gray: Population distribution over income brackets"
+    );
 } //update
 
 function tooltipOn(d) {
