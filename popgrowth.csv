@@ -1,0 +1,16 @@
+rank,city_bucket,annual_growth
+7,chi_20,-13.55498721
+8,sf_20,-16
+3,0th-20th percentile,0
+4,chi_40,6.649616368
+5,sf_40,1.195219124
+6,20th-40th percentile,0
+1,chi_60,6.905370844
+2,sf_60,13.54581673
+9,40th-60th percentile,0
+10,chi_80,7
+11,sf_80,21.11553785
+12,60th-80th percentile,0
+13,chi_100,-6.52173913
+14,sf_100,-19.52191235
+15,80th-100th percentile, 0
