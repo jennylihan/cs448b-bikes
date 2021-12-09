@@ -1,0 +1,85 @@
+total_bikes,year,operator,ID,operator_type
+0.1,2010,lyft,1,private
+0.1,2011,lyft,2,private
+0.1,2012,lyft,3,private
+7523,2013,lyft,4,private
+10434,2014,lyft,5,private
+10434,2015,lyft,6,private
+17717,2016,lyft,7,private
+19861,2017,lyft,8,private
+22895,2018,lyft,9,private
+27134,2019,lyft,10,private
+31268,2020,lyft,11,private
+39341,2021,lyft,12,private
+0.1,2010,bcycle,13,private
+53,2011,bcycle,14,private
+53,2012,bcycle,15,private
+1121,2013,bcycle,16,private
+1408,2014,bcycle,17,private
+1488,2015,bcycle,18,private
+2689,2016,bcycle,19,private
+2855,2017,bcycle,20,private
+3213,2018,bcycle,21,private
+3405,2019,bcycle,22,private
+3803,2020,bcycle,23,private
+3630,2021,bcycle,24,private
+0.1,2010,cyclehop,25,private
+0.1,2011,cyclehop,26,private
+0.1,2012,cyclehop,27,private
+0.1,2013,cyclehop,28,private
+300,2014,cyclehop,29,private
+900,2015,cyclehop,30,private
+1166,2016,cyclehop,31,private
+1610,2017,cyclehop,32,private
+2277,2018,cyclehop,33,private
+1685,2019,cyclehop,34,private
+1639,2020,cyclehop,35,private
+24,2021,cyclehop,36,private
+0.1,2010,non-profit/gov agency,37,non-profit/gov
+0.1,2011,non-profit/gov agency,38,non-profit/gov
+0.1,2012,non-profit/gov agency,39,non-profit/gov
+1503,2013,non-profit/gov agency,40,non-profit/gov
+1463,2014,non-profit/gov agency,41,non-profit/gov
+2183,2015,non-profit/gov agency,42,non-profit/gov
+3110,2016,non-profit/gov agency,43,non-profit/gov
+3375,2017,non-profit/gov agency,44,non-profit/gov
+3418,2018,non-profit/gov agency,45,non-profit/gov
+1716,2019,non-profit/gov agency,46,non-profit/gov
+2994,2020,non-profit/gov agency,47,non-profit/gov
+3162,2021,non-profit/gov agency,48,non-profit/gov
+0.1,2010,bicycle transit systems,49,private
+0.1,2011,bicycle transit systems,50,private
+0.1,2012,bicycle transit systems,51,private
+0.1,2013,bicycle transit systems,52,private
+0.1,2014,bicycle transit systems,53,private
+0.1,2015,bicycle transit systems,54,private
+871,2016,bicycle transit systems,55,private
+1596,2017,bicycle transit systems,56,private
+2462,2018,bicycle transit systems,57,private
+2471,2019,bicycle transit systems,58,private
+2533,2020,bicycle transit systems,59,private
+2419,2021,bicycle transit systems,60,private
+0.1,2010,corps logistics,61,private
+0.1,2011,corps logistics,62,private
+0.1,2012,corps logistics,63,private
+0.1,2013,corps logistics,64,private
+0.1,2014,corps logistics,65,private
+0.1,2015,corps logistics,66,private
+0.1,2016,corps logistics,67,private
+0.1,2017,corps logistics,68,private
+500,2018,corps logistics,69,private
+830,2019,corps logistics,70,private
+331,2020,corps logistics,71,private
+662,2021,corps logistics,72,private
+0.1,2010,social bicycles,73,private
+0.1,2011,social bicycles,74,private
+0.1,2012,social bicycles,75,private
+0.1,2013,social bicycles,76,private
+0.1,2014,social bicycles,77,private
+50,2015,social bicycles,78,private
+80,2016,social bicycles,79,private
+0.1,2017,social bicycles,80,private
+75,2018,social bicycles,81,private
+69,2019,social bicycles,82,private
+569,2020,social bicycles,83,private
+694,2021,social bicycles,84,private
